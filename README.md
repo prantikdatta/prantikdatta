@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prantikdatta
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R and Tableau
-- 💞️ I’m looking to collaborate on real time projects on data analysis
-- 📫 How to reach me https://www.linkedin.com/in/prantik-datta-b66126103/
+- 👀 Passionate about business intelligence and analytics
+- 🌱 currently learning BigQuery and LookerStudio
+- 💞️ I’m looking for collaborative opportunities in data analysis
+- 📫 How to reach me https://www.linkedin.com/in/prantik-datta
 
 <!---
 prantikdatta/prantikdatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
