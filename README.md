@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prantikdatta
 - 👀 Passionate about business intelligence and analytics
-- 🌱 currently learning BigQuery and LookerStudio
+- 🌱 currently pursuing Master's in Data Science
 - 💞️ I’m looking for collaborative opportunities in data analysis
 - 📫 How to reach me https://www.linkedin.com/in/prantik-datta
 
