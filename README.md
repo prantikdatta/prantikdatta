@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prantikdatta
-- 👀 Passionate about business intelligence and analytics
-- 🌱 currently pursuing Master's in Data Science
+- 👀 Consultant and data analyst with over 4.7 years in consulting and marketing, focused on advancing data-informed strategies through advanced analytics and visualizations.
 - 💞️ I’m looking for collaborative opportunities in data analysis
 - 📫 How to reach me https://www.linkedin.com/in/prantik-datta
 
