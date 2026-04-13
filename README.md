@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prantikdatta
-- 👀 Consultant and data analyst with over 4.7 years in consulting and marketing, focused on advancing data-informed strategies through advanced analytics and visualizations.
-- 💞️ I’m looking for collaborative opportunities in data analysis
+- 👀 Data consultant & analyst with 5+ years driving revenue growth and operational efficiency through advanced analytics. Efficient in Python, SQL, Power BI, R, and Tableau with proven ability to transform complex datasets into actionable business insights for enterprise strategy and decision-making.
+- 💞️ I’m looking for collaborative opportunities in data consultant
 - 📫 How to reach me https://www.linkedin.com/in/prantik-datta
 
 
