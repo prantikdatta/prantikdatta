@@ -1,0 +1,31 @@
+name: Generate GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Render profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: prantikdatta
+          cards: overview,lifetime,contributions,composition,rhythm,repositories,languages
+          output-dir: assets
+
+      - name: Commit generated cards
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'chore: update GitHub profile cards'
+          file_pattern: 'assets/*.svg assets/badges/*.svg'
