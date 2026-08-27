@@ -64,8 +64,46 @@ I'm currently exploring the **intersection of FinTech and AI**, while continuous
 
 ## 🔭 Currently Building & Learning
 
-| 🛠️ Building <br> 🚀 **Project 1** — one line description <br> 🔌 **Project 2** — one line description <br> 📦 **Project 3** — one line description | 🌱 Learning & Exploring <br> ⚛️ **Topic 1** you're studying <br> 🧠 **Topic 2** you're studying <br> 🔬 **Topic 3** you're studying |
-|---|---|
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🛠️ Building
+
+🤖 **NLP-to-SQL Query Agent**  
+Exploring natural-language interfaces for querying databases with AI.
+
+⚙️ **AI Automation Projects**  
+Building practical automations around email, databases, job discovery, and content workflows.
+
+🎨 **YouTube Thumbnail Creator**  
+Experimenting with AI-assisted creative workflows for content creation.
+
+📊 **Data & AI Projects**  
+Working at the intersection of analytics, automation, and AI-powered applications.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌱 Learning & Exploring
+
+💳 **FinTech**  
+Currently in Phase 1 of my FinTech learning journey and creating content around what I learn.
+
+🤖 **AI & Automation**  
+Deepening my understanding of LLMs, prompt engineering, AI workflows, and automation.
+
+🎬 **Video & Storytelling**  
+Learning video creation, visual storytelling, and AI-assisted video generation.
+
+✍️ **Writing & Poetry**  
+Writing about daily experiences, observations, and poetry in my free time.
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -104,5 +142,19 @@ I'm currently exploring the **intersection of FinTech and AI**, while continuous
 ![github contribution snake animation](https://raw.githubusercontent.com/prantikdatta/prantikdatta/output/github-contribution-grid-snake.svg)
 
 ---
+<h2 align="center">☕ Fuel the Next Idea</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=One+idea+%E2%86%92+one+experiment+%E2%86%92+one+more+thing+built;If+you+enjoy+what+I+create...;You+can+help+fuel+the+next+experiment+%E2%98%95" alt="Fuel the next idea"/>
+</p>
+
+<p align="center">
+  <a href="YOUR_PAYMENT_LINK">
+    <img src="https://img.shields.io/badge/%E2%98%95%20Fuel%20the%20Next%20Idea-FFD700?style=for-the-badge&logoColor=black" alt="Fuel the Next Idea"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Data · AI · Automation · Stories · Experiments</sub>
+</p>
 ⭐️ *If you find my work useful, consider following or starring a repo.*
