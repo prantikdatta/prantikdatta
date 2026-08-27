@@ -1,29 +1,64 @@
-# Your Name
+<h1 align="center">PRANTIK DATTA</h1>
 
-#### Your Title · Role · What You Do
+<p align="center">
+  <strong>Data & Analytics Professional · Consultant · Author · Storyteller</strong>
+</p>
 
 <!-- 1. TYPING ANIMATION (SVG) -->
 <!-- Generate your own text/colors here: https://readme-typing-svg.demolab.com -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Data+Analytics+%7C+AI+%7C+Automation;Always+Learning+Something+New;Building+Ideas+with+Data+%26+AI" alt="Typing SVG" />
+</p>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0077B5&style=for-the-badge)](https://github.com/your-username)
-[![Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/your-username?tab=followers)
-[![Stars](https://img.shields.io/badge/Total%20Stars-1k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prantik-datta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://prantikdatta-git-main-prantikdattas-projects.vercel.app/#projects">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:prantikdatta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 *"One line that sums up what you build and why — your personal tagline."*
+### 🚀 *"Building data-driven solutions at the intersection of Analytics, AI, and FinTech."*
 
 <!-- 2. WHO I AM + AT A GLANCE -->
-| 👋 Who I Am <br> I'm **Your Name**, a **[Your Role]** with **X+ years** of experience in **[your domain]**. <br> I work on **[key skill 1]**, **[key skill 2]**, and **[key skill 3]**. I also contribute to open source and enjoy **[hobby/interest]**. | ⚡ At a Glance <br> ``` name:        Your Name role:        Your Role company:     Your Company focus:       Your Focus Areas experience:  X+ yrs stars:       X hundred/thousand followers:   X hundred location:    Your City learning:    What you're exploring ``` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 👋 Who I Am
+
+I'm **Prantik Datta**, a **Data Consultant with 5.8+ years** of experience in **Data Analytics & Consultant.**
+
+I specialize in turning data into actionable insights, with experience across **consulting, data analytics, and business intelligence** including tools like **SQL, Power BI, Python, Excel, Prompt Engineering, AI Workflows/Automation, Workflow Design**. I work as a **freelance data consultant**, helping businesses make better, data-driven decisions.**
+
+I'm currently exploring the **intersection of FinTech and AI**, while continuously learning new technologies and contributing to the data community.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ At a Glance
+
+| | |
 |---|---|
+| **Name** | Prantik Datta |
+| **Role** | Data Consultant |
+| **Experience** | 5.8+ yrs |
+| **Data** | SQL · Power BI · Python · Excel |
+| **AI** | Prompt Engineering · AI Workflows |
+| **Automation** | AI Automation · Workflow Design |
+| **Build** | Vercel · Supabase · Antigravity |
+| **Creative** | Video · Storytelling · Content |
+| **Exploring** | AI · FinTech |
+
+</td>
 
 ---
 
@@ -38,33 +73,35 @@
 
 <!-- 4. ANIMATED SKILL ICONS -->
 <!-- Full icon list & docs: https://github.com/tandpfun/skill-icons -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,docker,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git&theme=dark)](https://skillicons.dev)
 
 <!-- Same icons, arranged as a table by category -->
-| **Languages** | [![python](https://go-skill-icons.vercel.app/api/icons?i=python)](https://go-skill-icons.vercel.app/api/icons?i=python) [![js](https://go-skill-icons.vercel.app/api/icons?i=javascript)](https://go-skill-icons.vercel.app/api/icons?i=javascript) [![ts](https://go-skill-icons.vercel.app/api/icons?i=typescript)](https://go-skill-icons.vercel.app/api/icons?i=typescript) [![java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://go-skill-icons.vercel.app/api/icons?i=java) |
+| **📊 Data Analytics** | [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev) [![R](https://skillicons.dev/icons?i=r&theme=dark)](https://skillicons.dev) <img src="https://img.icons8.com/?size=48&id=117561&format=png" alt="Excel" width="48"/> <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" alt="Power BI" width="48"/> |
 |---|---|
-| **Frontend** | [![react](https://go-skill-icons.vercel.app/api/icons?i=react)](https://go-skill-icons.vercel.app/api/icons?i=react) [![nextjs](https://go-skill-icons.vercel.app/api/icons?i=nextjs)](https://go-skill-icons.vercel.app/api/icons?i=nextjs) [![tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://go-skill-icons.vercel.app/api/icons?i=tailwind) |
-| **Backend** | [![nodejs](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://go-skill-icons.vercel.app/api/icons?i=nodejs) [![express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://go-skill-icons.vercel.app/api/icons?i=express) [![django](https://go-skill-icons.vercel.app/api/icons?i=django)](https://go-skill-icons.vercel.app/api/icons?i=django) |
-| **Database** | [![mongodb](https://go-skill-icons.vercel.app/api/icons?i=mongodb)](https://go-skill-icons.vercel.app/api/icons?i=mongodb) [![postgres](https://go-skill-icons.vercel.app/api/icons?i=postgres)](https://go-skill-icons.vercel.app/api/icons?i=postgres) [![redis](https://go-skill-icons.vercel.app/api/icons?i=redis)](https://go-skill-icons.vercel.app/api/icons?i=redis) |
-| **Cloud & Tools** | [![aws](https://go-skill-icons.vercel.app/api/icons?i=aws)](https://go-skill-icons.vercel.app/api/icons?i=aws) [![docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://go-skill-icons.vercel.app/api/icons?i=docker) [![git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://go-skill-icons.vercel.app/api/icons?i=git) [![linux](https://go-skill-icons.vercel.app/api/icons?i=linux)](https://go-skill-icons.vercel.app/api/icons?i=linux) |
+| **🤖 AI & LLMs** | <img src="https://img.icons8.com/?size=50&id=Nts60kQIvGqe&format=png" alt="ChatGPT" width="48"/> <img src="https://img.icons8.com/?size=48&id=zQjzFjPpT2Ek&format=png" alt="Claude" width="48"/> |
+|  **🚀 Building** | [![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev) [![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev) [![JSON](https://skillicons.dev/icons?i=json&theme=dark)](https://skillicons.dev) [![SVG](https://skillicons.dev/icons?i=svg&theme=dark)](https://skillicons.dev) [![npm](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)|
+| **☁️ Deploy & Backend** | [![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev) [![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev) [![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)](https://skillicons.dev) |
+| **💻 Development** | [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) [![PyCharm](https://skillicons.dev/icons?i=pycharm&theme=dark)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev) [![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=dark)](https://skillicons.dev) |
+| **🎨 Design & Collaboration** | [![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) [![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) |
+| **📬 Connect** | [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) |
 
 ---
 
-## 📊 GitHub Metrics & Stats Dashboard
+## 📊 GitHub Metrics
 
-<!-- 5. STATS -->
-<!-- Replace "your-username" with your actual GitHub username in every URL below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
+</picture>
 
-[![](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2)](https://github.com/your-username)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/your-username)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/your-username)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" alt="GitHub Contributions" width="100%">
+</picture>
 
 ### 🐍 Watch My Contributions Get Eaten
 
-![github contribution snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
+![github contribution snake animation](https://raw.githubusercontent.com/prantikdatta/prantikdatta/output/github-contribution-grid-snake.svg)
 
 ---
 
